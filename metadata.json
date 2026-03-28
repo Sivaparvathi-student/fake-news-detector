@@ -1,0 +1,5 @@
+{
+  "name": "Veritas AI: Global Fact-Checker",
+  "description": "A real-time, multi-lingual misinformation detection and fact-checking platform powered by Gemini AI with Google Search grounding.",
+  "requestFramePermissions": []
+}
